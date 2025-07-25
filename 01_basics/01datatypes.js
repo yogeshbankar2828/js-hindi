@@ -7,7 +7,4 @@ string
 null
 undefined
 bolleen
-symbol
-bigint 
-/*
-//obejects
+symbol  */
